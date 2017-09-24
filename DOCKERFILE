@@ -1,0 +1,6 @@
+# Line blocks used for commenting
+command argument argument ..
+
+# Print "Hello docker!"
+RUN echo "Hello docker!"
+
