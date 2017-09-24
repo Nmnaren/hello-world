@@ -2,5 +2,5 @@
 command argument argument ..
 
 # Print "Hello docker!"
-RUN echo "Hello docker!"
+RUN echo "Hello dockeri1!"
 
