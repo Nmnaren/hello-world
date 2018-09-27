@@ -1,2 +1,2 @@
 FROM centos:latest
-RUN yum update && yum install git -y
+RUN yum update && yum install tomact -y
